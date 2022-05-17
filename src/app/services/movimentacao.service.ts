@@ -3,7 +3,7 @@ import { HttpClient } from '@angular/common/http';
 import { Observable } from 'rxjs';
 
 //mude para sua aplicação
-const baseUrl = 'http://localhost:8080';
+const baseUrl = 'https://bankline-api-mauroppjr.herokuapp.com';
 
 @Injectable({
   providedIn: 'root'
